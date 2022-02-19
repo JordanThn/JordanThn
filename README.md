@@ -21,7 +21,7 @@ __JOJO__
 
 <h2> About:</h2>
 
-Je suis un petit YouTuber. En dehors de YouTube, j'aime passé du temps avec ma famille, écouter de la musique et regardé des film.
+Je suis un petit YouTuber. En dehors de YouTube, j'aime passé du temps avec ma famille, écouter de la musique et regardé des films.
  
 - Découvrez mon YouTube: [YouTube - JOJO](https://www.youtube.com/c/JOJODU81)
 - En savoir plus sur moi: [❌ About JordanThn ❌]()
